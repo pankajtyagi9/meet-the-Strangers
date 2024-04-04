@@ -1,1 +1,1 @@
-You can visit the website at : https://meet-the-strangers-55505f409712.herokuapp.com/
+https://meet-the-strangers-54a28db71007.herokuapp.com/
